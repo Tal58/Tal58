@@ -1,6 +1,6 @@
 
 # Hi, I'm Mihail Tal! 👋 
-![Logo](https://user-images.githubusercontent.com/107097793/179845124-8a788a67-60de-4544-842e-3604ab88c0d3.gif)
+
 
 
 ## 🚀 About Me!
