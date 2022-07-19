@@ -1,5 +1,5 @@
 
-# Hi, I'm Mihail Tal! 👋 ![Logo] (https://user-images.githubusercontent.com/107097793/179845124-8a788a67-60de-4544-842e-3604ab88c0d3.gif)
+# Hi, I'm Mihail Tal! 👋 ![Logo](https://user-images.githubusercontent.com/107097793/179845124-8a788a67-60de-4544-842e-3604ab88c0d3.gif)
 ![Logo](https://bigthink.com/wp-content/uploads/2022/01/AdobeStock_236786791.jpeg?lb=1536,864)
 
 ## 🚀 About Me!
