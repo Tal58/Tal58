@@ -1,11 +1,8 @@
 
-# Hi, I'm Mihail Tal! 👋 
-
-I'm a Full Stack Developer and Chess Addict
+# Hi, I'm Mihail Tal! 👋 I'm a Full Stack Developer and Chess Addict
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-toparl%C4%B1-49055372/)
+## 🔗 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-toparl%C4%B1-49055372/)
 
 
 
