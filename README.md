@@ -1,5 +1,5 @@
 
-# Hi, I'm Mihail Tal! 👋 [![pacman_1u2pcy2y]] (https://user-images.githubusercontent.com/107097793/179845124-8a788a67-60de-4544-842e-3604ab88c0d3.gif)
+# Hi, I'm Mihail Tal! 👋 [![pacman_1u2pcy2y] (https://user-images.githubusercontent.com/107097793/179845124-8a788a67-60de-4544-842e-3604ab88c0d3.gif)]
 
 
 ## 🚀 About Me!
