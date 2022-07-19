@@ -1,10 +1,6 @@
 
 # Hi, I'm Mihail Tal! 👋 
 
-
-
-## 🚀 About Me!
-
 I'm a Full Stack Developer and Chess Addict
 
 
