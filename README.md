@@ -1,8 +1,9 @@
 
-# Hi, I'm Mihail Tal! 👋 https://github.com/Tal58/Tal58/blob/3956f7ee6ef08178cdd67e09c2ea4f8ef5456195/pacman_1u2pcy2y.gif
+# Hi, I'm Mihail Tal! 👋 [pacman_1u2pcy2y](https://user-images.githubusercontent.com/107097793/179845124-8a788a67-60de-4544-842e-3604ab88c0d3.gif)
 
 
-## 🚀 About Me
+## 🚀 About Me!
+
 I'm a Full Stack Developer and Chess Addict
 
 
