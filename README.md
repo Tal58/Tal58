@@ -1,5 +1,6 @@
 
 # Hi, I'm Mihail Tal! 👋 ![Logo] (https://user-images.githubusercontent.com/107097793/179845124-8a788a67-60de-4544-842e-3604ab88c0d3.gif)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-toparl%C4%B1-49055372/)
 
 
 ## 🚀 About Me!
