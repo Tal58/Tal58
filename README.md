@@ -33,7 +33,7 @@
 
 📫 You can reach me via [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-toparl%C4%B1-49055372/) or my e-mail:(mihail.tal85@gmail.com)
 
-<img src="https://phoneky.co.uk/thumbs/screensavers/down/games/pacman_1u2pcy2y.gif" width="210" height="195" />[![Mihail's github stats](https://github-readme-stats.vercel.app/api?username=Tal58)](https://github.com/Tal58/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tal58)](https://github.com/Tal58/github-readme-stats)
+<img src="https://phoneky.co.uk/thumbs/screensavers/down/games/pacman_1u2pcy2y.gif" width="205" height="195" />[![Mihail's github stats](https://github-readme-stats.vercel.app/api?username=Tal58)](https://github.com/Tal58/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tal58)](https://github.com/Tal58/github-readme-stats)
 
 
 
