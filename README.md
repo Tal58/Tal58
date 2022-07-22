@@ -1,5 +1,8 @@
 
-# Hi, I'm Mihail Tal! 👋 I'm a Full Stack Developer and Chess Addict<img src="https://c.tenor.com/WkvX9dBN0G0AAAAd/be%C5%9Fikta%C5%9F-flag.gif" width="250" height="200" />
+# Hi, I'm Mihail Tal! 👋 I'm a Full Stack Developer and Chess Addict<img src="https://c.tenor.com/WkvX9dBN0G0AAAAd/be%C5%9Fikta%C5%9F-flag.gif" width="250" height="200" /><img src="https://phoneky.co.uk/thumbs/screensavers/down/games/pacman_1u2pcy2y.gif" width="250" height="200" />
+
+<img src="https://media3.giphy.com/media/H4nUqdNomOWzJfoIa6/giphy.gif" width="250" height="200" />
+
 
 
 
@@ -22,7 +25,9 @@
 
 
 
-<img src="https://phoneky.co.uk/thumbs/screensavers/down/games/pacman_1u2pcy2y.gif" width="250" height="200" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tal58)](https://github.com/Tal58/github-readme-stats)[![Mihail's github stats](https://github-readme-stats.vercel.app/api?username=Tal58)](https://github.com/Tal58/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tal58)](https://github.com/Tal58/github-readme-stats)
+[![Mihail's github stats](https://github-readme-stats.vercel.app/api?username=Tal58)](https://github.com/Tal58/github-readme-stats)
 
 
 
