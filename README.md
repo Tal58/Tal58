@@ -9,7 +9,7 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Tal58f&repo=github-visitors-badge&countColor=%237B1E7A)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+I'm+Mihail+Tal!...)](https://git.io/typing-svg)
+
 
 
 
