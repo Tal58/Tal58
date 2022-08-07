@@ -1,6 +1,8 @@
 
 # Hi, I'm Mihail Tal! 👋 I'm a Full Stack Developer and Chess Addict<img src="https://c.tenor.com/WkvX9dBN0G0AAAAd/be%C5%9Fikta%C5%9F-flag.gif" width="250" height="200" /><img src="https://phoneky.co.uk/thumbs/screensavers/down/games/pacman_1u2pcy2y.gif" width="250" height="200" /><img src="https://blog.trymyui.com/wp-content/uploads/2020/04/mario-dire-level-to-reflect-the-difficult-challenges-of-making-impactful-ux.gif" width="250" height="200" />
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 
 
 
