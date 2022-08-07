@@ -1,13 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=25&duration=6000&color=180707&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+I'm+Mihail+Tal!...)](https://git.io/typing-svg) 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=20&duration=6000&color=180707&center=true&vCenter=true&lines=%F0%9F%94%97+Full+Stack+Developer+and+chess+addict...)](https://git.io/typing-svg)
-
+<img src="developer.gif" width="400" align="right" alt="logo">
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Tal58f&repo=github-visitors-badge&countColor=%237B1E7A)<img src="https://c.tenor.com/WkvX9dBN0G0AAAAd/be%C5%9Fikta%C5%9F-flag.gif" width="250" height="200" /><img src="https://phoneky.co.uk/thumbs/screensavers/down/games/pacman_1u2pcy2y.gif" width="250" height="200" />
 
 
 ## 🛠 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-
-<img src="images/developer.gif" width="400" align="right" alt="logo">
 
 
 👩‍💻  I'm currently working on Full Stack Development...
