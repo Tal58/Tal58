@@ -16,6 +16,8 @@
 
 🤔 Ask me about anything you want...
 
+:man_student: Certificates 🔗 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-toparl%C4%B1-49055372/details/certifications/)
+
 📫 You can reach me via 🔗 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-toparl%C4%B1-49055372/) or my e-mail:🔗(mihail.tal85@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tal58)](https://github.com/Tal58/github-readme-stats)
