@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+I'm+Mihail+Tal!...)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?
 font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+I'm+a+passionate+Full+Stack+Developer...)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+and+chess+addict...)](https://git.io/typing-svg)
 
 
