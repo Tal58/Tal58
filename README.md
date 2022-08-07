@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=25&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+I'm+Mihail+Tal!...)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=25&duration=6000&color=180707&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+I'm+Mihail+Tal!...)](https://git.io/typing-svg) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=20&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Full+Stack+Developer+and+chess+addict...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=20&duration=6000&color=180707&center=true&vCenter=true&lines=%F0%9F%94%97+Full+Stack+Developer+and+chess+addict...)](https://git.io/typing-svg)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Tal58f&repo=github-visitors-badge&countColor=%237B1E7A)<img src="https://c.tenor.com/WkvX9dBN0G0AAAAd/be%C5%9Fikta%C5%9F-flag.gif" width="250" height="200" /><img src="https://phoneky.co.uk/thumbs/screensavers/down/games/pacman_1u2pcy2y.gif" width="250" height="200" />
 
