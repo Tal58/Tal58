@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=25&duration=6000&color=180707&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+I'm+Mihail+Tal!...)](https://git.io/typing-svg) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=20&duration=6000&color=180707&center=true&vCenter=true&lines=%F0%9F%94%97+Dedicated+Full+Stack+Developer+and+chess+addict)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=20&duration=6000&color=180707&center=true&vCenter=true&lines=%F0%9F%94%97+Dedicated+F.S.+Developer+and+chess+addict)](https://git.io/typing-svg)
 <img src="tal.gif" width="400" align="left" alt="logo">
 <img src="https://phoneky.co.uk/thumbs/screensavers/down/games/pacman_1u2pcy2y.gif" width="300" height="245" />![](https://api.visitorbadge.io/api/VisitorHit?user=Tal58f&repo=github-visitors-badge&countColor=%237B1E7A)
 
