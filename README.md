@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tal58)](https://github.com/Tal58/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tal58&show_icons=true) 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tal58)  
+
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 
